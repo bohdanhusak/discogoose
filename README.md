@@ -8,9 +8,9 @@
 1. Execute `npm install` to install required dependencies.
 ## Usage
 
-To start the bot, you need to use the command
+To start the bot, you need to use the command:
 
 ```bash
-TOKEN=SECRET_TOKEN* npm start
+TOKEN=${SECRET_TOKEN} npm start
 ```
-SECRET_TOKEN*: token for the bot
+where `SECRET_TOKEN` is token for the bot.
