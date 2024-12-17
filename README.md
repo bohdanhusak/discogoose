@@ -14,3 +14,6 @@ To start the bot, you need to use the command:
 TOKEN=${SECRET_TOKEN} npm start
 ```
 where `SECRET_TOKEN` is token for the bot.
+
+
+## Testing
